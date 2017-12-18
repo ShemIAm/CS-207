@@ -39,3 +39,20 @@ Milestone 3) Somehow connect the output of the Theremin to Ableton on my compute
 
 
 I want to make a Theremin that I can connect to my computer so I can use whatever sounds I want through it. Ideally I would like to have a button turn it on and off as well as an LED light to signal if it’s on or off. The Arduino will power the Ultrasonic Sensor which will send its signals through the MIDI shield to Ableton Live where I can pick the base sound for the Theremin to play.
+
+
+
+Build Instructions:
+
+I just simply could not get this midi shield to work meaning there 
+is no way for me to get sound to go through my computer or any software on it. I 
+decided to instead use this female aux cord I have to see if I can get any theremin like 
+sound to get the input from my ultrasonic sensor to go out of my headphones which 
+would be plugged into the aux.  
+By this point, I have completely given up on playing/adjusting anyone else’s code 
+to make what I want. After getting rid of my midi breakout shield I hooked up my female 
+aux cable to pin 3 instead. Then all did was borrow pieces of the code I got from the 
+arduino website for my ultrasonic sensor /* https://www.arduino.cc/en/Tutorial/Ping */ to 
+put in both a playFuntion I made as well as the void loop to work only when the button 
+(pin 1) is pushed.  
+My schematics and my final build: 
