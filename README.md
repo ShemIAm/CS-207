@@ -56,7 +56,4 @@ arduino website for my ultrasonic sensor /* https://www.arduino.cc/en/Tutorial/P
 put in both a playFuntion I made as well as the void loop to work only when the button 
 (pin 1) is pushed.  
 My schematics and my final build: 
-<p align="center">
-  <img src="CS-207/img/20171207_225006.jpg" width="350"/>
-  <img src="CS-207/img/20171207_225006.jpg" width="350"/>
-</p>
+![alt tag](https://github.com/ShemIAm/CS-207/blob/master/img/20171207_225006.jpg)
