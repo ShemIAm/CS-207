@@ -1,4 +1,4 @@
-# CS-207: More info found in Final Project Write-Up!
+# CS-207: More info found in CS-207/Ishema Mwunvaneza Final Project Write-Up.pdf
 
  I want to make a Arduino Theremin similar to these:  
  http://www.electrominds.com/projects/simple-arduino-theremin-theremino 
