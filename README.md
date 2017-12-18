@@ -57,3 +57,5 @@ put in both a playFuntion I made as well as the void loop to work only when the 
 (pin 1) is pushed.  
 My schematics and my final build: 
 ![alt tag](https://github.com/ShemIAm/CS-207/blob/master/img/20171207_225006.jpg)
+![alt tag](https://github.com/ShemIAm/CS-207/blob/master/img/20171207_223337.jpg)
+![alt tag](https://github.com/ShemIAm/CS-207/blob/master/img/20171207_223313.jpg)
